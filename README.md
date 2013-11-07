@@ -1,6 +1,11 @@
 Mega Project List
 ========
 
+Languages
+---------
+
+Checkout a new branch to work on these projects in a new language. Currently doing Ruby, Python, and probably will create a node.js projects list.
+
 Numbers
 ---------
 
