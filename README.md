@@ -4,7 +4,7 @@ Mega Project List
 Languages
 ---------
 
-Checkout a new branch to work on these projects in a new language. Currently doing Ruby, Python, and probably will create a node.js projects list.
+This is the Python branch. Use only the python language to solve all of these problems.
 
 Numbers
 ---------
